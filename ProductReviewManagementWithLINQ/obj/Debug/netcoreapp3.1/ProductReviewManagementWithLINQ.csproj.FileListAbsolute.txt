@@ -1,0 +1,14 @@
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.csproj.AssemblyReference.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.AssemblyInfoInputs.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.AssemblyInfo.cs
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.csproj.CoreCompileInputs.cache
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\bin\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.exe
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\bin\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.deps.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\bin\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.runtimeconfig.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\bin\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.runtimeconfig.dev.json
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\bin\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\bin\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.pdb
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.dll
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.pdb
+C:\Users\MOHSIN ZAHOOR PEER\Desktop\ProductReviewManagementWithLINQ\ProductReviewManagementWithLINQ\obj\Debug\netcoreapp3.1\ProductReviewManagementWithLINQ.genruntimeconfig.cache
