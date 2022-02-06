@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
-using System.Data;
 using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Data;
 
 namespace ProductReviewManagementWithLINQ
 {
@@ -41,7 +42,7 @@ namespace ProductReviewManagementWithLINQ
             //(ProductReview.ProductID == 9 && ProductReview.Rating > 3)
             // select ProductReview;
 
-            foreach(var list in recordedData)
+            foreach (var list in recordedData)
             {
                 Console.WriteLine("ProductID:-" + list.ProductID + " " + "UserID:-" + list.UserID
                     + " " + "Rating:-" + list.Rating + " " + "Review:-" + list.Review + " " + "isLike:-" + list.isLike);
@@ -72,6 +73,21 @@ namespace ProductReviewManagementWithLINQ
             foreach (var list in recordedData)
             {
                 Console.WriteLine(list.ToString());
+            }
+
+        }
+        ///<summary>
+        /// UC-6
+        /// </summary>
+        /// <param name="listProductReview"></param>
+        public void SkipTopFive(List<ProductReview> listProductReview)
+        {
+            var recordedData = (from list in listProductReview
+                                orderby list.Rating descending
+                                select list);
+            foreach (var element in recordedData.Skip(5))
+            {
+                Console.WriteLine(element.ToString());
             }
 
         }
