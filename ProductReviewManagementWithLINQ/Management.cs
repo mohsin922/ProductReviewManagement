@@ -61,5 +61,19 @@ namespace ProductReviewManagementWithLINQ
             }
 
         }
+        ///<summary>
+        /// UC-5
+        /// </summary>
+        /// <param name="listProductReview"></param>
+        public void RetrieveProductID(List<ProductReview> listProductReview)
+        {
+            var recordedData = (from list in listProductReview
+                                select new { list.ProductID, list.Review });
+            foreach (var list in recordedData)
+            {
+                Console.WriteLine(list.ToString());
+            }
+
+        }
     }
 }
